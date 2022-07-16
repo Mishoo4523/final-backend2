@@ -1,2 +1,1 @@
-# final-backend
-Mern Blog APP
+# blog-app-backend
